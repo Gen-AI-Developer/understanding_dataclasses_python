@@ -25,6 +25,8 @@ This repository contains a series of Jupyter notebooks that provide a comprehens
    - This notebook demonstrates the use of the `asdict` and `astuple` functions to convert dataclass instances to dictionaries and tuples, respectively. Examples are provided to show how these functions can be used to serialize dataclass instances for JSON encoding and other purposes.
 
 By following these notebooks in sequence, you will gain a thorough understanding of how to use dataclasses in Python to create more concise and readable code.
+ 
+ __Step 07 and 08 is for self learning__
 
  - [Vidoe: 1 hour of Dataclass in depth](https://www.youtube.com/watch?v=2P0i119GXNQ)
  - [Video: 2 Python dataclasses will save you HOURS, also featuring attrs](https://www.youtube.com/watch?v=vBH6GRJ1REM)
